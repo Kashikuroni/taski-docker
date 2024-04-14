@@ -10,6 +10,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '130.193.53.104', 'kittygramcool.ddns.net']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
